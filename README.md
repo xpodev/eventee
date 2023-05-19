@@ -1,18 +1,18 @@
-# Evente
+# Eventee
 
-Evente is an extended version of the EventEmitter class from Node.js. It allows you to stop the propagation of events.
+Eventee is an extended version of the EventEmitter class from Node.js. It allows you to stop the propagation of events.
 
 ## Installation
 
 ```bash
-npm install evente
+npm install eventee
 ```
 
 ## Usage
 The usage is the same as the EventEmitter class from Node.js. The only difference is that you can stop the propagation of events by returning `false` in the event handler.
 
 ```javascript
-const { EventEmitter } = require('evente');
+const { EventEmitter } = require('eventee');
 
 const emitter = new EventEmitter();
 
