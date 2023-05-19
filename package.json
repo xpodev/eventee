@@ -15,7 +15,8 @@
     "url": "https://github.com/xpodev/eventus/issues"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "echo \"No test specified\""
   },
   "devDependencies": {
     "@types/node": "^20.2.1",
