@@ -1,18 +1,18 @@
 {
-  "name": "eventus",
+  "name": "evente",
   "description": "An extended EventEmitter for Node.js",
   "version": "0.0.1",
   "author": "Xpo Development",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
-  "homepage": "https://github.com/xpodev/eventus#readme",
+  "homepage": "https://github.com/xpodev/evente#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xpodev/eventus.git"
+    "url": "https://github.com/xpodev/evente.git"
   },
   "bugs": {
-    "url": "https://github.com/xpodev/eventus/issues"
+    "url": "https://github.com/xpodev/evente/issues"
   },
   "scripts": {
     "build": "tsc",
